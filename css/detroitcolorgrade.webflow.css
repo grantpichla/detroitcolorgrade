@@ -1469,6 +1469,7 @@ figcaption {
 
 .section-heading.homepage {
   margin-top: 0px;
+  margin-left: -3px;
 }
 
 .section-heading.homepage.blurb {
