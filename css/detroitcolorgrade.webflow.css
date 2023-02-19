@@ -2496,6 +2496,7 @@ figcaption {
 
 .link-3.quote {
   font-size: 18px;
+  display: inline-block;
 }
 
 .link-block {
