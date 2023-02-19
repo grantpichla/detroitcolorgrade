@@ -275,6 +275,11 @@ figcaption {
   text-transform: uppercase;
 }
 
+  
+.button.contact {
+  margin-bottom: 40px;
+}
+
 .button:hover {
   background-color: #32343a;
   color: #fff;
@@ -2537,10 +2542,9 @@ figcaption {
     -webkit-justify-content: center;
     -ms-flex-pack: center;
     justify-content: center;
+
   }
-  .button.contact {
-    margin-bottom: 40px;
-  }
+
   .button.cc-contact-us {
     display: none;
   }
