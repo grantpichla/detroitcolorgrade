@@ -2504,6 +2504,12 @@ figcaption {
   text-align: center;
 }
 
+.link-4 {
+  font-family: 'Gothic A1', sans-serif;
+  color: #ffcd19;
+  display: inline-block
+}
+
 .image-13 {
   width: 60%;
   margin-right: auto;
@@ -2531,7 +2537,9 @@ figcaption {
     -ms-flex-pack: center;
     justify-content: center;
   }
-
+  .button.contact {
+    margin-bottom: 40px;
+  }
   .button.cc-contact-us {
     display: none;
   }
