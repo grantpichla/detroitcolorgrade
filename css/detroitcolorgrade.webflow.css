@@ -1452,6 +1452,7 @@ figcaption {
   display: block;
   margin-top: 0px;
   margin-bottom: 30px;
+  text-align: left;
 }
 
 .section-heading {
@@ -1469,7 +1470,7 @@ figcaption {
 
 .section-heading.homepage {
   margin-top: 0px;
-  margin-left: -3px;
+  margin-left: -2px;
 }
 
 .section-heading.homepage.blurb {
